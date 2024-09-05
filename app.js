@@ -1,4 +1,5 @@
 require("./xyz.js");// one module into another 
+// require("");// one module into another 
 var name ="Amit Jha";
 // const {x,calculateSum} = require("./sum.js");
 // import { x,calculateSum } from "./sum.js";
